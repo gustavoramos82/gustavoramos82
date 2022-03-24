@@ -1,4 +1,4 @@
-- ## Oi, meu nome é Gustavo Ramos, sou formado em Licenciatura em Matemática, estudante de Contabilidade e também façõ curso de Ciência de Dados pela Blue Edtech 😁
+- ## Oi, meu nome é Gustavo Ramos, sou formado em Licenciatura em Matemática, estudante de Contabilidade e também faço curso de Ciência de Dados pela Blue Edtech 😁
 ### Amante do Linux e open source
  <img height="70cm"  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
