@@ -1,4 +1,4 @@
-## Oi, meu nome é Gustavo Ramos, sou formado em Licenciatura em Matemática, fiz curso de Ciência de Dados pela Blue Edtech  e especilaista em Ciência de dados e inteligência artificial pela Uninter😁
+## Oi, meu nome é Gustavo Ramos, sou formado em Licenciatura em Matemática, fiz curso de Ciência de Dados pela Blue Edtech  e especilaista em Ciência de dados e inteligência artificial pela Uninter, fundador da comunidade açai com dados, com o objetivo de fomentar a área de dados na região norte
 ### Amante do Linux e open source
  <img height="70cm"  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>  <img height="70cm"  img src="https://www.svgrepo.com/show/342086/open-source-initiative.svg"/> 
 
