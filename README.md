@@ -1,4 +1,12 @@
-## Oi, meu nome é Gustavo Ramos, sou formado em Licenciatura em Matemática, fiz curso de Ciência de Dados pela Blue Edtech  e especilaista em Ciência de dados e inteligência artificial pela Uninter, fundador da comunidade açai com dados, com o objetivo de fomentar a área de dados na região norte
+## Oi, meu nome é Gustavo Ramos
+
+Formado em Licenciatura em Matemática, fiz curso de Ciência de Dados pela Blue Edtech  e especilaista em Ciência de dados e inteligência artificial pela Uninter, fundador da comunidade [Açai com Dados](https://github.com/acaicomdados), com o objetivo de fomentar a área de dados na região região norte
+
+Fundador das startups Ecomonitor e [Hidrus](https://github.com/hidruspa) e ultimamente deparando em análise de dados ambientais
+
+- *Ecomonitor*: startup que tem por objetivo uso de ia e anlise de dados para monitoramento e mitigação de danos ambientais, focada principalmente em barragens de mineração
+- *Hidrus*: monitoramento das hidrelétricas, em que vamos pegar os diversos dados divulgado pelos órgãos, fazer um cruzamento de informações, fazer análises e divulgar os resultados no portal
+
 ### Amante do Linux e open source
  <img height="70cm"  img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>  <img height="70cm"  img src="https://www.svgrepo.com/show/342086/open-source-initiative.svg"/> 
 
