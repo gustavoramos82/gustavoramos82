@@ -1,6 +1,6 @@
 ## Oi, meu nome é Gustavo Ramos
 
-Formado em Licenciatura em Matemática, fiz curso de Ciência de Dados pela Blue Edtech  e especilaista em Ciência de dados e inteligência artificial pela Uninter, fundador da comunidade [Açai com Dados](https://github.com/acaicomdados), com o objetivo de fomentar a área de dados na região região norte
+Formado em Licenciatura em Matemática, fiz curso de Ciência de Dados pela Blue Edtech, especilaista em Ciência de dados e inteligência artificial pela Uninter, atualmente mestrando em Ciência da Computação pela UFPA, fundador da comunidade [Açai com Dados](https://github.com/acaicomdados), com o objetivo de fomentar a área de dados na região região norte
 
 Fundador das startups Ecomonitor e [Hidrus](https://github.com/hidruspa) e ultimamente deparando em análise de dados ambientais
 
